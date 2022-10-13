@@ -12,11 +12,13 @@ Below are the steps to follow to contribute to this project:
 2. Clone your forked copy of the project.
 
 git clone https://github.com/<your_user_name>/Data-Structure-Algorithms.git
+
 where your_user_name is your GitHub username.
 
 3. Navigate to the project directory 📁 .
 
-cd HactoberfestAccepted
+cd Data-Structure-Algorithms
+
 4. Add a reference(remote) to the original repository.
 
 git remote add upstream (https://github.com/gvpHactober/Data-Structure-Algorithms.git)
